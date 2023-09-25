@@ -6,7 +6,7 @@
     -   **매주 화요일**에 모여 돌아가면서 그 주의 논문을 읽고 코드로 구현하고 와서 각자 맡은 파트를 스터디 원에게 설명
 
 ## 커리큘럼
-|              <div style="width:50px">주차</div> |논문                          |        <div style="width:50px">발표자 </div>             			|
+|              <div style="width:100px">주차</div> |논문                          |        <div style="width:100px">발표자 </div>             			|
 |----------------|-------------------------------|-----------------------------|
 |1주차 | AlexNet - [ImageNet Classification with Deep Convolutional Neural Network](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)        |조종호|
 |1주차 |GoogLeNet - [Going Deeper with Convolutions](https://arxiv.org/abs/1409.4842)|주미선 |
